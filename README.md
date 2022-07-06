@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cemkayhan aka "High Level Synthesis Advocate"
+- 👋 Hi, I’m @cemkayhan a.k.a. "High Level Synthesis Advocate"
 
 
 <!---
